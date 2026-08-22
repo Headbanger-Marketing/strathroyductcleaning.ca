@@ -1,2 +1,25 @@
 # Strathroy Duct Cleaning
-HVAC services in Ontario.
+
+> Strathroy Duct Cleaning is a local HVAC company serving Strathroy, Middlesex, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (548) 708-7117  |  Email: contact@strathroyductcleaning.ca  |  Website: https://strathroyductcleaning.ca
+
+## Key pages
+
+- [Home](https://strathroyductcleaning.ca/): Strathroy Duct Cleaning homepage with service overview and FAQ
+- [About](https://strathroyductcleaning.ca/about/): About the company and service area
+- [Contact](https://strathroyductcleaning.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Air Duct Cleaning](https://strathroyductcleaning.ca/services/air-duct-cleaning/): Air Duct Cleaning in Strathroy, Ontario
+- [Dryer Vent Cleaning](https://strathroyductcleaning.ca/services/dryer-vent-cleaning/): Dryer Vent Cleaning in Strathroy, Ontario
+- [Furnace & AC Cleaning](https://strathroyductcleaning.ca/services/furnace-ac-cleaning/): Furnace & AC Cleaning in Strathroy, Ontario
+- [HRV & Ventilation Cleaning](https://strathroyductcleaning.ca/services/hrv-ventilation-cleaning/): HRV & Ventilation Cleaning in Strathroy, Ontario
+- [Duct Sanitizing & Deodorizing](https://strathroyductcleaning.ca/services/duct-sanitizing/): Duct Sanitizing & Deodorizing in Strathroy, Ontario
+- [Duct Sealing & Repair](https://strathroyductcleaning.ca/services/duct-sealing-repair/): Duct Sealing & Repair in Strathroy, Ontario
+- [Commercial Duct Cleaning](https://strathroyductcleaning.ca/services/commercial-duct-cleaning/): Commercial Duct Cleaning in Strathroy, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Strathroy are answered on the homepage.
