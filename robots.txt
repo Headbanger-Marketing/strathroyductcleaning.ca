@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://strathroyductcleaning.ca/sitemap-index.xml
